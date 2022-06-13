@@ -112,7 +112,7 @@ define HELP_MESSAGE
 	$ make init
 
 	...::: Deploy all SAM based services :::...
-	$ make deploy --capabilities CAPABILITY_IAM
+	$ make deploy
 
 	...::: Delete all SAM based services :::...
 	$ make delete
