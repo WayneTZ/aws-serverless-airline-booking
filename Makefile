@@ -112,7 +112,7 @@ define HELP_MESSAGE
 	$ make init
 
 	...::: Deploy all SAM based services :::...
-	$ make deploy --parameters-overrides
+	$ make deploy
 
 	...::: Delete all SAM based services :::...
 	$ make delete
